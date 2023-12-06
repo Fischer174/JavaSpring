@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.example.Buns</groupId>
-    <artifactId>Buns</artifactId>
+    <artifactId>mod2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Buns</name>
+    <name>mod2</name>
     <description>Rozhkov Sergey</description>
     <properties>
         <java.version>17</java.version>
